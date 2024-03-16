@@ -1,9 +1,5 @@
-# SEMESTER PRACTICALS
 ### Create a student course enrollment app using React, SpringBoot an SQL.
-```
-Name : Keerthika.N
-Reg.No : 212221230049
-```
+
 ## Output:
 ### Student Directory:
 <img width="935" alt="home" src="https://github.com/KeerthikaNagarajan/practical_fullstack/assets/93427089/ce3cce77-f1bb-4d5d-b51a-3f4e063bbf5d">
